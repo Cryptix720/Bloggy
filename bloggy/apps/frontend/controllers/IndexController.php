@@ -1,6 +1,6 @@
 <?php
 
-namespace Bloggy\Frontend\Controllers;
+namespace Blog\Frontend\Controllers;
 
 use Phalcon\Mvc\Model\Criteria;
 
